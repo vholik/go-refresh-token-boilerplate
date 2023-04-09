@@ -6,6 +6,8 @@ This project under the hood is using JWT access and refresh tokens and domain dr
 
 Also you should have .env file like this
 
-`DB_URL=...
+````
+DB_URL=...
 JWT_SECRET=...
-TOKEN_TTL=...`
+TOKEN_TTL=...```
+````
